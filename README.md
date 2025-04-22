@@ -55,7 +55,7 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=Lycorissss&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lycorissss&show_icons=true&locale=en" alt="Lycorissss" /><br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=Lycorissss&theme=ambient_gradient&hide_border=false" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lycorissss&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
