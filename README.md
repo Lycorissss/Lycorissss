@@ -6,19 +6,15 @@
 <h3 align="center">Developer Apps and Website</h3>
 
 <br/>
-
-<div align="center">
  
-
- </div>
- 
-<div style="text-align: center;">
+<div align="center">>
     <a href="https://discord.gg/lycoris2284" target="_blank">
       <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
     </a>
-    <a href="https://instagram.com/@septyoo_" target="_blank">
+    <a href="https://www.instagram.com/septyoo_" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
     </a>
+
   </div>
 
  <hr/>
@@ -51,13 +47,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
