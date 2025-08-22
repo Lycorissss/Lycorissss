@@ -55,7 +55,7 @@
 ### 📊 Activity Overview
 ![WakaTime](https://wakatime.com/badge/user/6b4b8d2f-8c1d-4d0d-9b3a-2b3c4d5e6f7a.svg)
 
-**Total Coding Time:** ![Total Time](https://wakatime.com/badge/user/6b4b8d2f-8c1d-4d0d-9b3a-2b3c4d5e6f7a.svg)  
+**Total Coding Time:** 119 hrs 45 mins  
 **Daily Average:** 2 hrs 31 mins  
 **Member Since:** July 1, 2025
 
@@ -63,15 +63,15 @@
 
 <div align="center">
 
-### 🌟 Top Languages
-![Language Breakdown](https://wakatime.com/share/@Lycorissss/6b4b8d2f-8c1d-4d0d-9b3a-2b3c4d5e6f7a.svg)
+### 🗓️ Weekly Activity
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Lycorissss&layout=compact&theme=ambient_gradient&hide_border=true&custom_title=Weekly+Development+Breakdown)](https://wakatime.com/@Lycorissss)
 
 </div>
 
 <div align="center">
 
-### 🗓️ Weekly Activity
-![Weekly Activity](https://wakatime.com/share/@Lycorissss/6b4b8d2f-8c1d-4d0d-9b3a-2b3c4d5e6f7a.svg)
+### 🌟 Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=Lycorissss&langs_count=8&layout=compact&theme=ambient_gradient&hide_border=true&custom_title=Most+Used+Languages)](https://wakatime.com/@Lycorissss)
 
 </div>
 
@@ -102,7 +102,7 @@
 </table>
 
 <div align="center">
-  
+look full my activity
 *Stats provided by [WakaTime](https://wakatime.com/@Lycorissss)*
 
 </div>
