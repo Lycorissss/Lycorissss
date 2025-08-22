@@ -47,6 +47,7 @@
 <br/>
 <hr/>
 
+
 <!-- WakaTime Start -->
 <h2 align="center">💻 WakaTime Coding Activity 💻</h2>
 
@@ -100,9 +101,9 @@
 </td>
   </tr>
 </table>
-
 look full my activity <br>
 <div align="center">
+  
 *Stats provided by [WakaTime](https://wakatime.com/@Lycorissss)*
 
 </div>
