@@ -51,8 +51,63 @@
 <h2 align="center">💻 Coding Activity 💻</h2>
 <div align="center">
 
-<!-- Replace 'Lycorissss' with your WakaTime username -->
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Lycorissss&layout=compact&theme=ambient_gradient&hide_border=true)](https://wakatime.com/@Lycorissss)
+<!-- WakaTime Start -->
+<h2 align="center">💻 WakaTime Coding Activity 💻</h2>
+
+<div align="center">
+
+### 📊 Activity Overview
+![WakaTime](https://wakatime.com/badge/user/6b4b8d2f-8c1d-4d0d-9b3a-2b3c4d5e6f7a.svg)
+
+**Total Coding Time:** 119 hrs 45 mins  
+**Daily Average:** 2 hrs 31 mins  
+**Member Since:** July 1, 2025
+
+</div>
+
+<div align="center">
+
+### 🗓️ Weekly Activity
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Lycorissss&layout=compact&theme=ambient_gradient&hide_border=true&custom_title=Weekly+Development+Breakdown)](https://wakatime.com/@Lycorissss)
+
+</div>
+
+<div align="center">
+
+### 🌟 Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/wakatime?username=Lycorissss&langs_count=8&layout=compact&theme=ambient_gradient&hide_border=true&custom_title=Most+Used+Languages)](https://wakatime.com/@Lycorissss)
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      
+### 🛠️ Development Environment
+**Primary Editor:** VS Code  
+**Operating System:** Windows  
+**Categories:** Coding, AI Coding, Writing Docs
+
+</td>
+    <td align="center" width="50%">
+
+### 💡 Language Expertise
+- Vue.js
+- TypeScript
+- Go
+- JavaScript
+- SCSS
+- HTML/CSS
+- Python
+- SQL
+
+</td>
+  </tr>
+</table>
+
+<div align="center">
+  
+*Stats provided by [WakaTime](https://wakatime.com/@Lycorissss)*
 
 </div>
 <!-- WakaTime End -->
