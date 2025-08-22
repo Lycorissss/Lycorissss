@@ -101,8 +101,8 @@
   </tr>
 </table>
 
+look full my activity <br>
 <div align="center">
-look full my activity
 *Stats provided by [WakaTime](https://wakatime.com/@Lycorissss)*
 
 </div>
