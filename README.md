@@ -6,8 +6,8 @@
 <h3 align="center">Developer Apps and Website</h3>
 
 <br/>
- 
-<div align="center">>
+
+<div align="center">
     <a href="https://discord.gg/lycoris2284" target="_blank">
       <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
     </a>
@@ -47,6 +47,15 @@
 <br/>
 <hr/>
 
+<!-- WakaTime Start -->
+<h2 align="center">💻 Coding Activity 💻</h2>
+<div align="center">
+
+<!-- Replace 'Lycorissss' with your WakaTime username -->
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Lycorissss&layout=compact&theme=ambient_gradient&hide_border=true)](https://wakatime.com/@Lycorissss)
+
+</div>
+<!-- WakaTime End -->
 
 <hr/>
 
